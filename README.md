@@ -1,3 +1,2 @@
 # DieuTran
-Czesc
-dzie dobry
+dzien dobry
